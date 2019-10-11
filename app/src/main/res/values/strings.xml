@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="list_apple_name">Apple</string>
+    <string name="list_lemon_name">Lemon</string>
+    <string name="list_watermelon_name">Watermelon</string>
+    <string name="list_banana_name">Banana</string>
+    <string name="list_cherry_name">Cherry</string>
+    <string name="list_grape_name">Grape</string>
+
+    <string name="list_apple_name_local">苹果</string>
+    <string name="list_lemon_name_local">柠檬</string>
+    <string name="list_watermelon_name_local">西瓜</string>
+    <string name="list_banana_name_local">香蕉</string>
+    <string name="list_cherry_name_local">樱桃</string>
+    <string name="list_grape_name_local">葡萄</string>
+</resources>
